@@ -1,5 +1,5 @@
 # Harris Corner Detection
-
+Accompanying [blog post](https://safwankdb.github.io/2020/03/14/harris-corner.html)
 ## Algorithm
 The algorithm can detect corners and edges effectively. It uses structural information from the structure tensor's eigenvalues to find change in intensity values and their direction. A much detailed explanation can be found at [Harris Corner Detection](https://www.wikiwand.com/en/Harris_Corner_Detector).
 
